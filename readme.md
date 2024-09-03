@@ -1,5 +1,4 @@
-# yt-dlp config - downloading entire youtube channels for archival
-
+THE FOLLOWING, BELOW, IS CONTENT FROM THE ORIGINAL AUTHOR(S)
 # Readme
 
 This repo contains a config file which makes it easy to download entire youtube channels, and also update them without having to re-download existing videos.
